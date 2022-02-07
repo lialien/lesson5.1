@@ -1,0 +1,46 @@
+@import "null.css";
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap');
+body{
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+}
+h1{
+    text-transform: uppercase;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 60px;
+    color: blue;
+    text-align: center;
+}
+.text1{
+    margin: 20px 20px 30px 30px;
+}
+.image1{
+    padding: 30px 20px 30px 20px;
+}
+.text2{
+    text-align: right;
+    color: brown;
+}
+.image2{
+    max-width: 500px;
+    margin: 0px auto;
+}
+.headline{
+    font-weight: 700;
+    font-size: 30px;
+    color: blueviolet;
+    padding-left: 40px;
+}
+.text3{
+    padding-left: 40px;
+}
+.image3{
+    padding: 0px 0px 0px 40px;
+}
+.link{
+    text-align: center;
+    font-weight: 700;
+    flex: 30;
+    color: coral;
+}
